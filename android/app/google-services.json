@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1097627427698",
+    "firebase_url": "https://pedagogia-a9dc3.firebaseio.com",
+    "project_id": "pedagogia-a9dc3",
+    "storage_bucket": "pedagogia-a9dc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097627427698:android:0acf32398ecb7c15b033eb",
+        "android_client_info": {
+          "package_name": "com.example.cuaderno_pedagogico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097627427698-6vpgv4t59vf739pd8reiroag63d9lt9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeIlvtCBv9Hqmf_6fmQQ4EezqDf7lLZis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097627427698-6vpgv4t59vf739pd8reiroag63d9lt9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
